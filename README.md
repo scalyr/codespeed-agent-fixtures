@@ -8,4 +8,4 @@ the scalyr-agent-2 project.
 All the log files in this repository are available from free and public
 sources:
 
-* fixtures/logs/access_log_50_mb.log -> http://www.almhuette-raith.at/apache-log/access.log
+* ``fixtures/logs/access_log_*_mb.log`` -> http://www.almhuette-raith.at/apache-log/access.log
