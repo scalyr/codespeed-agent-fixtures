@@ -1,0 +1,5 @@
+{
+    "fixture_file": "access_log_100_mb.log",
+    "num_events": 11625,
+    "request_size": 3145728
+}
